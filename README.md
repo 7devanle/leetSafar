@@ -14,9 +14,10 @@ Submission:
 - after solving it, and passing all leetcode casses: screenshot your submition and upload to your own git branch repository. 
 
 Creating a brnach: 
-after downloading the repo: 
-- open folder 
+after copying the repo link: 
+- open new folder 
 - right click and open with git bash
+- git init
 - git clone https://github.com/7devanle/leetSafar.git
 - git checkout/switch 7devanle    //7devanle is name of your repo
 - add your screenshot to the folder (name of screenshot(day#_nameOfProblem)
